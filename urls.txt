@@ -1,0 +1,3 @@
+https://httpstat.us/Random/200,201,500-504
+https://www.alura.com.br
+https://www.youtube.com
