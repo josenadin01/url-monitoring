@@ -21,11 +21,9 @@ Any other input will result in the program to close with a non zero code, your O
 
 Options: 
 You can change the value of these variables as you like.
-The first one is the quantity of the loops when reading the urls.txt
-const monitoringLoop = 2
+The first one is the quantity of the loops when reading the urls.txt ---> const monitoringLoop = 2
 
-The second one will be the delay between the loops when reading the urls.txt
-const delay = 5
-Of couse you also can change the time.Second to any variation ex: Minute, Hour...
-time.Sleep(delay * time.Second) <---
+The second one will be the delay between the loops when reading the urls.txt ---> const delay = 5
+Of couse you also can change the time.Second to any variation ex: Minute, Hour... ---->
+time.Sleep(delay * time.Second)
 
