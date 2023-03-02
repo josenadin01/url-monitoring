@@ -1,4 +1,4 @@
-# url-monitoring
+# URL Monitoring
 My first time using Golang on a personal project
 
 You can run this project by writing: go run url-monitoring.go on your terminal inside the URL-MONITORING folder
