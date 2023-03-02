@@ -18,3 +18,14 @@ Will read the log.txt file that is created after running option 1 for the first 
 Will exit the program with a zero code that your OS will recognize as an safe exit.
 
 Any other input will result in the program to close with a non zero code, your OS will recognize as an error.
+
+Options: 
+You can change the value of these variables as you like.
+The first one is the quantity of the loops when reading the urls.txt
+const monitoringLoop = 2
+
+The second one will be the delay between the loops when reading the urls.txt
+const delay = 5
+Of couse you also can change the time.Second to any variation ex: Minute, Hour...
+time.Sleep(delay * time.Second) <---
+
